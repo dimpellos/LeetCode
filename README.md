@@ -1,2 +1,2 @@
 # LeetCode
-Solutions Accepted
+Solutions 'Accepted' from LeetCode problems. 
